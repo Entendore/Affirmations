@@ -1,0 +1,3 @@
+# Affirmations
+
+Project repository.
